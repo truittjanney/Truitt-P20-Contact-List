@@ -68,7 +68,7 @@ Note: There is an example using the Context API inside `views/demo.js`;
 ## Contributors:
 - Truitt Janney (https://github.com/truittjanney)
 
-## We welcome contributions from the community! How to contribute:
+## We welcome contributions from the community! Here's how to contribute:
 - Search existing issues before creating a new issue. Please check to see if it has already been reported. This helps us avoid duplicates.
 - If you cannot find an existing issue, you can create a new one. Please provide detailed information about the problem, including steps to reproduce, expected behavior, and any relevant screenshots.
 
